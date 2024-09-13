@@ -1,0 +1,10 @@
+chormadb
+requests
+bs4
+groq
+sentence_transformer
+huggingface_hub
+accelerate
+torch
+tranformers
+streamlit
